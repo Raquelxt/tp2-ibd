@@ -12,7 +12,7 @@ O objetivo deste trabalho é investigar a relação entre violência contra mulh
 
 ## Estrutura do Repositório
 
-- **`dados/`**: Pasta contendo os arquivos CSV das bases de dados utilizadas.
+- **`main/`**: Pasta contendo os arquivos CSV das bases de dados utilizadas.
   - `municipios_mg.csv`: Dados geográficos dos municípios de Minas Gerais.
   - `violencia_lgbt.csv`: Dados sobre violência contra pessoas LGBT em Minas Gerais.
   - `violencia_mulher.csv`: Dados sobre violência contra mulheres em Minas Gerais.
